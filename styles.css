@@ -1,0 +1,63 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    color:white;
+    background-color: #3748da;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+    background-image: url("images/BJ3.jpg.jpg") ;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 25pt;
+    color: #f8d061;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+    width: bold;
+    font-style: italic;
+}
+
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+#start-btn{
+    padding: 10px 30px;
+    margin:20px;
+    font-weight: bold;
+    background-color: chocolate;
+    text-decoration-color: #f8d061;
+    border-radius: 20% 20% 20% 20%;
+    border-color:burlywood
+    
+}
+#cards{
+    padding: 10px 10px;
+    margin:10px;
+    
+   
+}
+#message-el{
+    padding: 10px 10px;
+    margin:10px;
+    
+    
+}
+#start-btn2{
+    padding: 10px 30px;
+    margin:20px;
+    font-weight: bold;
+    background-color: chocolate;
+    text-decoration-color: #f8d061;
+    border-radius: 20% 20% 20% 20%;
+    border-color:burlywood
+}
